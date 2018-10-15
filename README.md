@@ -1,6 +1,12 @@
 # small-p5-js-web-app
 small p5.js web apps. 
 
+https://codepen.io/csinghofen/pen/mLWJEa 10print project
+
+https://codepen.io/csinghofen/pen/XqMaJL pixel canvas
+
+https://codepen.io/csinghofen/pen/deYZoj clock
+
 p5.js library displays graphics, geometric shapes on a created canvas. Which allows User interaction and UX. get started here: https://p5js.org/get-started/
 
 Newly Added 4/30/2018:   p5 JS program version of the  one line command with the  Commodore 64 BASIC program language.   
